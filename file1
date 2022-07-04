@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ours First</title>
+</head>
+<body>
+    <h1>Welcome To Page!!!</h1>
+    <p>Our page will provide you the information about everything you want.<strong>Thanks for visiting us</strong>, further we'll guide you towards our page.<br> We request you to<em> go on the navigation bar</em> for furthter information.</p>
+    <a href="https://web.telegram.org/" target="_blank"> Join our Telegram group for regular updates</a> <br>
+    <a href="https://www.facebook.com/" target="_blank"> Follow our facebook page for regular updates</a><br>
+    <li>Turmeric</li>
+    <li>Coconut Oil</li>
+    <li>Ginger</li>
+    <a href="/rem1.html" Target="_Blank">Turmeric</a><br>
+    <a href="/rem2.html" Target="_Blank">Coconut Oil</a>
+
+
+</body>
+</html>
